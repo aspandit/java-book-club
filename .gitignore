@@ -1,0 +1,8 @@
+/jdk-17.0.14/
+/jdk-17.0.14_linux-x64_bin.tar.gz
+/.idea/
+**/*.odt
+**/*.odt#
+**/*.class
+**/*.jar
+**/*.iml
